@@ -12,4 +12,4 @@ Running a session:
 
 Running tests:
 
-    pytest --cov
+    pytest
